@@ -1,0 +1,128 @@
+html{
+    background-color: white;
+    width: 1000px;
+    height: 500px;
+}
+.form{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 200px;
+    border-radius: 0px;
+    background-position-x: center; 
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#div1{
+    margin-left: 30%;
+}
+#div2{
+    margin-left: 30%;
+}
+#div3{
+    margin-left: 22%;
+}
+#div4{
+    margin-left: 20%;
+}
+#div5{
+    margin-left: 23%;
+}
+#div6{
+    margin-left: 27.5%;
+}
+#div7{
+    margin-left: 20%;
+}
+#div8{
+    margin-left: 7.5%;
+}
+#div9{
+    margin-left: 13.5%;
+}
+#div10{
+    margin-left: 10.5%;
+}
+input{
+    color: black;
+    width: 450px;
+    height: 32px;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+select{
+    color: black;
+    width: 150px;
+    height: 33px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.pais{
+    color: rgb(0, 0, 0);
+    width: 460px;
+    height: 33px;
+    border-radius: 5px;
+    background-position: left;
+    font-family: 'Lato', sans-serif;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.dia{
+    color: black;
+    width: 150px;
+    height: 33px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.mes{
+    color: black;
+    width: 150px;
+    height: 33px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.año{
+    color: black;
+    width: 150px;
+    height: 33px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
